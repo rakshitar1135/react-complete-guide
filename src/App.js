@@ -1,5 +1,5 @@
 import ExpenseItem from './components/ExpenseItem'
-function App(){
+function App(props){
   const expenses = [
     {
       id: 'e1',
