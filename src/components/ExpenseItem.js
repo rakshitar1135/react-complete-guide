@@ -1,6 +1,10 @@
 function ExpenseItem(){
     return(<div>
-        <h2>Expense Item!</h2>
+        <div>March</div>
+        <div>
+            <h2>Car Insurance</h2>
+            <div>$296.99</div>
+        </div>
     </div>)
 }
 export default ExpenseItem;
